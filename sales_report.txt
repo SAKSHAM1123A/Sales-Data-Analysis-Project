@@ -1,0 +1,21 @@
+SALES REPORT
+============
+Total Orders: 100
+Total Revenue: Rs. 12365048
+Average Order Value: Rs. 123650.48
+Total Units Sold: 478
+Best Product: Laptop
+Top Region: North
+
+Sales by product:
+ - Laptop: Rs. 3889210
+ - Tablet: Rs. 2884340
+ - Phone: Rs. 2859394
+ - Headphones: Rs. 1384033
+ - Monitor: Rs. 1348071
+
+Sales by region:
+ - North: Rs. 3983635
+ - South: Rs. 3737852
+ - East: Rs. 2519639
+ - West: Rs. 2123922
