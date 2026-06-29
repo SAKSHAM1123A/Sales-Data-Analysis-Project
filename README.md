@@ -49,6 +49,7 @@ Sales-Data-Analysis/
 ├── sales_data.csv
 ├── sales_report.txt
 ├── README.md
+├── requirement.txt
 ```
 
 Install dependencies:
